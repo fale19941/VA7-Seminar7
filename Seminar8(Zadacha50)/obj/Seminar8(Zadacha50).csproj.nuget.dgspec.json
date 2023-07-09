@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Papochka Zootopia\\Donald (and Git)\\Donald10(MK)\\Seminar8(Zadacha50)\\Seminar8(Zadacha50).csproj": {}
+  },
+  "projects": {
+    "D:\\Papochka Zootopia\\Donald (and Git)\\Donald10(MK)\\Seminar8(Zadacha50)\\Seminar8(Zadacha50).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Papochka Zootopia\\Donald (and Git)\\Donald10(MK)\\Seminar8(Zadacha50)\\Seminar8(Zadacha50).csproj",
+        "projectName": "Seminar8(Zadacha50)",
+        "projectPath": "D:\\Papochka Zootopia\\Donald (and Git)\\Donald10(MK)\\Seminar8(Zadacha50)\\Seminar8(Zadacha50).csproj",
+        "packagesPath": "C:\\Users\\Vi\\.nuget\\packages\\",
+        "outputPath": "D:\\Papochka Zootopia\\Donald (and Git)\\Donald10(MK)\\Seminar8(Zadacha50)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.4.23260.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
